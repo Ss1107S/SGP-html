@@ -1,0 +1,14 @@
+body{background-color: rgb(251, 238, 118);}
+
+ol{font-family: Verdana, sans-serif;}
+
+ul{font-family: Verdana, sans-serif;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.button{border-radius: 10px;}
